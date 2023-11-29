@@ -7,6 +7,7 @@ module.exports = defineConfig ({
         supportFile : false
     },
     env : {
-        username : "myskill123"
+        username : "myskill123",
+        password : "myskill123"
     }
 })
